@@ -1,0 +1,65 @@
+<resources>
+
+    <string name="app_name">POMOPLAN</string>
+
+    <string name="title_fragment_pomo">Pomo</string>
+    <string name="title_fragment_daily">Daily</string>
+    <string name="title_fragment_tag">Tag</string>
+
+    <string name="title_activity_account">Account</string>
+    <string name="title_activity_daily">Daily History</string>
+    <string name="title_activity_tag">Tag History</string>
+    <string name="title_activity_login">Log in</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_pomo">Pomodoro</string>
+    <string name="title_activity_setting">Setting</string>
+    <string name="title_activity_help">Help</string>
+
+    <string name="menu_action_login">Log in</string>
+    <string name="menu_action_register">Register</string>
+    <string name="menu_action_account">Account</string>
+    <string name="menu_action_setting">Setting</string>
+    <string name="menu_action_help">Help</string>
+
+    <string name="button_logout">Log Out</string>
+    <string name="button_login">Log In</string>
+    <string name="button_register">Register</string>
+    <string name="button_decrease">-</string>
+    <string name="button_increase">+</string>
+
+    <string name="image_incomplete">Incomplete</string>
+    <string name="image_complete">Complete</string>
+    <string name="image_add">Add</string>
+
+    <string name="plan">Plan</string>
+    <string name="complete">Complete</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="tag">Tag</string>
+    <string name="memo">Memo</string>
+    <string name="pomodoro_duration">Pomodoro Duration</string>
+    <string name="break_duration">Break Duration</string>
+    <string name="wifi_off">WiFi Off</string>
+    <string name="bluetooth_off">Bluetooth Off</string>
+    <string name="interruption_setting">Interruption Setting</string>
+    <string name="duration_setting">Duration Setting</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+
+    <string name="info_wait">Let\'s work! (Click timer)</string>
+    <string name="info_work">Focusing!</string>
+    <string name="info_break">Take a break!</string>
+
+    <string name="help_intro">Pomodoro is a time management technique for work efficiency
+        improvement as well as work-life balancing.The basic idea is a 25/5 minutes timer
+        controlling the focusing/relaxing rhythms.</string>
+    <string name="help_feature">The core features of our POMOPLAN are listed as following:\n1)
+        Interruption elimination.\n2) Working/daily plan.</string>
+    <string name="help_detail">A basic life cycle is called a Pomodoro. There are 2 types of
+        Pomodoro in our application: completed Pomodoro and scheduled Pomodoro.\n
+        1) Completed Pomodoro:\nThe work that has already been completed. It is represented as a
+        red circle in this application.\n2) Scheduled Pomodoro:\nThe work that has already been
+        scheduled(by tag or by date) but has not been completed. It is represented as a green
+        circle in this application.</string>
+
+</resources>

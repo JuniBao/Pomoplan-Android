@@ -1,0 +1,7 @@
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:contentDescription="@string/image_incomplete"
+    android:layout_width="0dp"
+    android:layout_height="60dp"
+    android:src="@drawable/green_ball"
+    android:layout_weight="1" />
